@@ -15,7 +15,8 @@
   NA
   
   ## Usage
-  - Video Link - https://drive.google.com/file/d/1SeHAoVyuN3NFR86XpYtcyEXaooRm6tHg/view
+  - Deployed Link - https://drive.google.com/file/d/1SeHAoVyuN3NFR86XpYtcyEXaooRm6tHg/view
+  - GitHub - https://github.com/kenneilsmith/react_portfolio_module_20_challenge/
   
   ## Features
   users can create thoughts and have friend who react to the thoughts
