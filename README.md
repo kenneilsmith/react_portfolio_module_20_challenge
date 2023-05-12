@@ -15,7 +15,7 @@
   NA
   
   ## Usage
-  - Deployed Link - https://drive.google.com/file/d/1SeHAoVyuN3NFR86XpYtcyEXaooRm6tHg/view
+  - Deployed Link - (https://kenneilsmith.github.io/react_portfolio_module_20_challenge/)
   - GitHub - https://github.com/kenneilsmith/react_portfolio_module_20_challenge/
   
   ## Features
