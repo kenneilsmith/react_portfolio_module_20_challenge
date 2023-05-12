@@ -19,7 +19,7 @@
   - GitHub - https://github.com/kenneilsmith/react_portfolio_module_20_challenge/
   
   ## Features
-  users can create thoughts and have friend who react to the thoughts
+ 
   
   ## Contributing
 
