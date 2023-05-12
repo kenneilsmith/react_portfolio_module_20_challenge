@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_portfolio_module_20_challenge/static/css/main.447f990c.css",
+    "main.js": "/react_portfolio_module_20_challenge/static/js/main.f5958a97.js",
+    "static/media/horiseon.png": "/react_portfolio_module_20_challenge/static/media/horiseon.aa1f19637d49fe50fece.png",
+    "static/media/weather_app.png": "/react_portfolio_module_20_challenge/static/media/weather_app.fdd8075db450bc26b927.png",
+    "static/media/blog_screenshot.png": "/react_portfolio_module_20_challenge/static/media/blog_screenshot.041ff23212adee42b870.png",
+    "static/media/note_taker_screenshot.png": "/react_portfolio_module_20_challenge/static/media/note_taker_screenshot.1c8b8fb0740d01eac039.png",
+    "static/media/password_gen.png": "/react_portfolio_module_20_challenge/static/media/password_gen.aa4cd9ab17e229da65fc.png",
+    "static/media/work_scheduler.png": "/react_portfolio_module_20_challenge/static/media/work_scheduler.5f7556c101262318488c.png",
+    "static/media/headshot.png": "/react_portfolio_module_20_challenge/static/media/headshot.814dedef33fc0f920259.png",
+    "static/media/resume.docx": "/react_portfolio_module_20_challenge/static/media/resume.d9c04d92cd670ee2d19e.docx",
+    "static/media/resume.png": "/react_portfolio_module_20_challenge/static/media/resume.e4b7a7c9033856f76038.png",
+    "index.html": "/react_portfolio_module_20_challenge/index.html",
+    "main.447f990c.css.map": "/react_portfolio_module_20_challenge/static/css/main.447f990c.css.map",
+    "main.f5958a97.js.map": "/react_portfolio_module_20_challenge/static/js/main.f5958a97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447f990c.css",
+    "static/js/main.f5958a97.js"
+  ]
+}
